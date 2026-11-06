@@ -680,6 +680,82 @@ Esta nota tiene finalidad informativa y no sustituye el asesoramiento profesiona
 
 ---
 
+# ¿Qué juzgado es competente para una sucesión si el fallecido vivía en la Argentina y los herederos en España?
+URL: https://especheypereyra.com/juzgado-competente-sucesion-herederos-en-espana/
+
+Sucesión a distancia
+
+# ¿Qué juzgado es competente para una sucesión si el fallecido vivía en la Argentina y los herederos en España?
+
+El juzgado del último domicilio de la persona fallecida. La sucesión tramita ante el juez del lugar donde el causante tenía su domicilio al momento de morir (artículo 2336 del Código Civil y Comercial de la Nación). No define la competencia el lugar donde falleció, ni el lugar donde están los bienes, ni el país o la ciudad donde viven los herederos. Si su padre o su madre vivía en un partido de la Provincia de Buenos Aires, interviene un juzgado en lo civil y comercial del departamento judicial al que pertenece ese partido; si vivía en la Ciudad de Buenos Aires, la Justicia Nacional en lo Civil. Que usted resida en España no cambia esa regla.
+
+Publicado el 6 de noviembre de 2026 · Última revisión: 6 de noviembre de 2026 · Por Sebastián Rubén Espeche, abogado (C.A. Morón T° IX F° 552 · CPACF T° 68 F° 187)
+
+## 1. Qué dice la ley
+
+La regla general: el último domicilio. El artículo 2336 del Código Civil y Comercial de la Nación dispone: «La competencia para entender en el juicio sucesorio corresponde al juez del último domicilio del causante». "Causante" es la persona fallecida cuya herencia se tramita. La norma no menciona el lugar del fallecimiento, la ubicación de los bienes ni el domicilio de los herederos: ninguno de esos datos fija el juzgado.
+
+Qué se entiende por domicilio. El artículo 73 del mismo Código establece que la persona humana tiene su domicilio real «en el lugar de su residencia habitual». Lo que cuenta, entonces, es dónde vivía efectivamente la persona, de manera estable, cuando murió. Una internación en un hospital de otra ciudad, o un fallecimiento durante un viaje, no trasladan la competencia: el juzgado sigue siendo el del lugar donde tenía su casa.
+
+Un solo juzgado para todo lo que deriva de la herencia. El mismo artículo 2336 agrega que ese juez conoce también de las acciones de petición de herencia, de nulidad de testamento, de los litigios sobre la administración y liquidación de la herencia y de las operaciones de partición. En la práctica, la sucesión y las cuestiones vinculadas a ella se concentran ante un único juzgado, y no ante uno distinto por cada bien o por cada heredero.
+
+La regla para los casos con más de un país. El artículo 2643 del Código declara competentes para la sucesión a «los jueces del último domicilio del causante o los del lugar de situación de los bienes inmuebles en el país respecto de éstos». Si la persona vivía en la Argentina, el juez argentino de su último domicilio es competente aunque todos los herederos residan en España. Y si vivía fuera de la Argentina pero dejó un inmueble en el país, los jueces argentinos son competentes respecto de ese inmueble.
+
+## 2. Cómo se hace, paso por paso
+
+Así se determina, en la práctica, qué juzgado va a intervenir.
+1. Se establece el último domicilio. Es el lugar donde la persona residía habitualmente al fallecer. Se toma de la documentación: la partida de defunción, el DNI y otros comprobantes de residencia.
+2. Se ubica la jurisdicción. Si el domicilio estaba en la Provincia de Buenos Aires, corresponde el departamento judicial que comprende a ese partido: por ejemplo, quien vivía en Morón, Ituzaingó, Hurlingham o Merlo corresponde al Departamento Judicial Morón, y quien vivía en La Matanza, al Departamento Judicial La Matanza. Allí intervienen los juzgados de primera instancia en lo civil y comercial. Si el domicilio estaba en la Ciudad de Buenos Aires, interviene la Justicia Nacional en lo Civil. Si estaba en otra provincia, la causa tramita ante los tribunales de esa provincia.
+3. El juzgado concreto se asigna por sorteo. La causa se inicia por vía electrónica y, dentro de la jurisdicción que corresponde, el sistema judicial asigna por sorteo el juzgado que va a intervenir. Ni los herederos ni el abogado lo eligen.
+4. Se verifica que no exista una sucesión anterior. Como parte del inicio se requiere un informe al Registro de Juicios Universales, que indica si ya se promovió la sucesión de la misma persona. Si existe una anterior, el trámite continúa en ese expediente y no se abre otro.
+5. El juzgado controla su propia competencia. Con la partida de defunción y la prueba del domicilio a la vista, el juez verifica que el caso le corresponde. Si entiende que el último domicilio estaba en otra jurisdicción, se declara incompetente y remite el expediente al tribunal que corresponde. Por eso conviene dejar bien establecido el domicilio antes de iniciar.
+6. Usted interviene desde España. Definido el juzgado, su participación se resuelve con un poder otorgado ante el consulado argentino o ante un notario español con apostilla, o firmando los escritos que el estudio le envía. El detalle está en ¿Puedo hacer la sucesión de mis padres en la Argentina sin viajar desde España?
+
+## 3. Qué documentos hacen falta
+
+Para determinar el juzgado importan, sobre todo, los documentos que muestran dónde vivía la persona fallecida:
+- La partida de defunción, que habitualmente consigna el domicilio de la persona fallecida.
+- El DNI del causante, con el domicilio registrado.
+- Algún comprobante de residencia: una factura de servicios a su nombre u otra constancia del lugar donde vivía.
+- Los datos que identifiquen los bienes (dirección del inmueble, partida inmobiliaria o dominio del automotor). No definen el juzgado, pero permiten prever en qué registros habrá que inscribir.
+
+Para iniciar la sucesión se suman las partidas que prueban el vínculo (matrimonio o libreta de familia, nacimiento de los herederos), el DNI de los herederos y el testamento, si lo hubo. No hace falta tenerlo todo: alcanzan copias legibles de lo que haya y el resto se gestiona.
+
+Si los documentos indican domicilios distintos —por ejemplo, un DNI con una dirección antigua y una residencia posterior en otro partido—, lo que cuenta es la residencia habitual al momento del fallecimiento, y hay que acreditarla. Ese punto se analiza con la documentación a la vista, en la consulta inicial.
+
+## 4. Qué hace el estudio
+
+Espeche & Pereyra y Asociados es un estudio jurídico argentino con atención personal en Torremolinos (Málaga) y domicilio profesional en la Ciudad de Buenos Aires. En la consulta inicial, por videollamada y sin arancel, el estudio establece con usted el último domicilio de la persona fallecida, le confirma qué jurisdicción corresponde y le indica qué documentación reunir.
+
+El estudio toma sucesiones cuyo juzgado competente está en la Provincia de Buenos Aires o en la Ciudad de Buenos Aires. Si el último domicilio estaba en otra provincia, la causa tramita allí; el estudio no tiene matrícula en esa jurisdicción y se lo dice de entrada. Cuando el caso corresponde, redacta la minuta del poder, inicia y conduce el expediente electrónico hasta la declaratoria de herederos y la inscripción de los bienes, o hasta la venta si la familia lo decide, y le informa por escrito el estado de la causa.
+
+Los honorarios se pactan por escrito, al mínimo de la escala arancelaria legal para sucesiones sin controversia, y no se perciben por adelantado: se explican en ¿Cuánto cuesta una sucesión en la Argentina?
+
+Solicitar la consulta inicial  Ver cómo funciona el servicio
+
+## Preguntas frecuentes
+
+¿Importa dónde falleció la persona?
+No. El artículo 2336 del Código Civil y Comercial fija la competencia por el último domicilio, no por el lugar del fallecimiento. Si la persona vivía en un partido de la Provincia de Buenos Aires y falleció internada en la Ciudad de Buenos Aires o durante un viaje, la sucesión tramita igualmente ante el juzgado de su domicilio.
+
+¿Importa dónde están los bienes?
+No, si la persona vivía en la Argentina. El juzgado del último domicilio interviene respecto de toda la herencia, aunque haya bienes en otra jurisdicción del país; la inscripción en los registros que correspondan se pide desde el mismo expediente. Si hay bienes en más de una provincia o en otro país, el caso se analiza en la consulta inicial.
+
+¿Cambia el juzgado porque los herederos vivimos en España?
+No. El domicilio de los herederos no fija la competencia. Usted interviene desde España por medio de un poder otorgado ante el consulado argentino o ante un notario español con apostilla, o firmando los escritos que el estudio le envía, sin necesidad de viajar.
+
+¿Y si la persona fallecida vivía fuera de la Argentina pero dejó un inmueble en Buenos Aires?
+El artículo 2643 del Código Civil y Comercial declara competentes a los jueces argentinos respecto de los inmuebles situados en el país. La sucesión de ese inmueble se tramita en la Argentina. Lo que corresponda hacer en el otro país depende del derecho de ese país, que no es materia de este estudio.
+
+¿El estudio puede tramitar una sucesión en cualquier provincia argentina?
+No. Depende del último domicilio de la persona fallecida, que define el juzgado competente. El estudio toma sucesiones en la Provincia de Buenos Aires y en la Ciudad de Buenos Aires; si el domicilio estaba en otra provincia, no tiene matrícula allí y se lo dice de entrada.
+
+Esta nota tiene finalidad informativa y no sustituye el asesoramiento profesional sobre un caso concreto. Las normas citadas pueden consultarse en el enlace oficial indicado; la asignación del juzgado y sus requisitos se verifican al iniciar el trámite.
+
+← Volver al inicio
+
+---
+
 URL: https://especheypereyra.com/sebastian-ruben-espeche/
 
 # Sebastián Rubén Espeche, abogado argentino
@@ -695,7 +771,7 @@ Las matrículas pueden consultarse en las guías de matriculados del Colegio de 
 WhatsApp España: +34 620 04 31 64 · WhatsApp Argentina: +54 9 11 6706-5497 · Correo: contacto@especheypereyra.com · Camino del Carnicero 11, 5-1-2, 29620 Torremolinos (Málaga), con cita previa · Domicilio profesional en la Argentina: Aráoz 2390, 4° E, Ciudad de Buenos Aires.
 Los servicios del estudio consisten en el ejercicio de la abogacía argentina y en consultoría en derecho argentino; no constituyen ejercicio de la abogacía española.
 ← Volver al inicio
-Notas: Sucesión sin viajar desde España · ¿Cuánto cuesta una sucesión en la Argentina? · Sucesión con un heredero que no aparece o no quiere firmar
+Notas: Sucesión sin viajar desde España · Qué juzgado es competente · ¿Cuánto cuesta una sucesión en la Argentina? · Sucesión con un heredero que no aparece o no quiere firmar
 ESPECHE & PEREYRA Y ASOCIADOS — Estudio Jurídico · Sucesiones y derecho argentino a distancia · Presencia física y virtual en Buenos Aires y España
 Espeche & Pereyra y Asociados es un estudio jurídico de la República Argentina. Sebastián Rubén Espeche, abogado, se encuentra matriculado en el Colegio de Abogados de Morón (T° IX F° 552) y en el Colegio Público de Abogados de la Capital Federal (T° 68 F° 187). Leandro Martín Pereyra, abogado, se encuentra matriculado en el Colegio de Abogados de Morón (T° 16 F° 944). Los servicios ofrecidos consisten en el ejercicio de la abogacía argentina y consultoría en derecho argentino. No constituyen ejercicio de la abogacía española. Los honorarios se pactan por escrito al mínimo de las escalas de las leyes arancelarias 14.967 (PBA) y 27.423 (CABA) para procesos sin controversia; las estimaciones del sitio son orientativas.
 Consulte por WhatsApp
